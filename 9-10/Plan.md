@@ -9,7 +9,7 @@
 ## 学习资源
 
 ### 图书
-- HTML5 Canvas游戏开发实战
+- HTML5 Canvas 游戏开发实战
 
 ### 博客教程
 - [just-spaceships](http://ondras.zarovi.cz/games/just-spaceships/)
@@ -25,7 +25,7 @@
 ### 管理
 - 使用个人学习计划 repo 的 Project 进行跟踪
 
-### 读书笔记||博文||翻译||cheatsheet
+### 读书笔记 || 博文 || 翻译 || cheatsheet
 - 写在 issue 里面，结合 Project 进行管理
 
 ### 团队博客
