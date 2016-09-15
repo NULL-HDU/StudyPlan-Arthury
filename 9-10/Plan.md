@@ -1,7 +1,7 @@
 ## 学习目标
 
 ### 前端技术
-- Canvas的基本使用
+- Canvas 的基本使用
 - 了解前端常见游戏引擎
   - pixi.js
 - 阅读 just-spaceships 源码
@@ -20,7 +20,7 @@
 ## 学习成果
 
 ### 代码
-- 相关demo上传至个人学习计划 reop 对应目录下
+- 相关 demo 上传至个人学习计划 reop 对应目录下
 
 ### 管理
 - 使用个人学习计划 repo 的 Projects 进行跟踪
