@@ -23,10 +23,10 @@
 - 相关demo上传至个人学习计划 reop 对应目录下
 
 ### 管理
-- 使用个人学习计划 repo 的 Project 进行跟踪
+- 使用个人学习计划 repo 的 Projects 进行跟踪
 
 ### 读书笔记 || 博文 || 翻译 || cheatsheet
-- 写在 issue 里面，结合 Project 进行管理
+- 写在 issue 里面，结合 Projects 进行管理
 
 ### 团队博客
 - 不硬性要求
