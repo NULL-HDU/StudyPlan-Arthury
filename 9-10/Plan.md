@@ -12,7 +12,7 @@
 - HTML5 Canvas 游戏开发实战
 
 ### 博客教程
-- [just-spaceships](http://ondras.zarovi.cz/games/just-spaceships/)
+- [just-spaceships](https://hacks.mozilla.org/2012/03/developing-a-simple-html5-space-shooter/)
 - [pixi.js](http://www.pixijs.com/)
 
 ### 订阅的技术文章
