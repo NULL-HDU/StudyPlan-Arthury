@@ -6,9 +6,19 @@
     <script>
 
      var renderer = PIXI.autoDetectRenderer(256,256,{
-         //抗锯齿 透明度
+         //抗锯齿 透明度 分辨率
          antialias: false, transparent: false, resolution: 1
+         //设置分辨率详细教程  Mat Grove's explanation
      });
+
+     //选择canvas渲染
+     //renderer = new PIXI.CanvasRenderer(256,256);
+
+     //选择webgl渲染
+     //renderer = new PIXI.WebGLRenderer(256,256);
+
+     //renderer.view自定义
+     renderer.view.style.border = "1px dashed black"
 
      document.body.appendChild(renderer.view);
 
@@ -17,3 +27,5 @@
      renderer.render(stage);
     </script>
 </body>
+
+
